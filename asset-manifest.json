@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dex-dashboard-template/static/css/main.ab8fde40.css",
-    "main.js": "/dex-dashboard-template/static/js/main.ec528d19.js",
+    "main.js": "/dex-dashboard-template/static/js/main.3ccac876.js",
     "static/media/banner.png": "/dex-dashboard-template/static/media/banner.e7e485889e91cd190c61.png",
     "static/media/Covalent-Background_5.jpg": "/dex-dashboard-template/static/media/Covalent-Background_5.cc7bc02bfb761a1dd343.jpg",
     "static/media/covalent-logo-loop_dark_v2.gif": "/dex-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
@@ -9,10 +9,10 @@
     "index.html": "/dex-dashboard-template/index.html",
     "static/media/alert.svg": "/dex-dashboard-template/static/media/alert.6e5425f970eb5a1bc7107d2f8df36bf2.svg",
     "main.ab8fde40.css.map": "/dex-dashboard-template/static/css/main.ab8fde40.css.map",
-    "main.ec528d19.js.map": "/dex-dashboard-template/static/js/main.ec528d19.js.map"
+    "main.3ccac876.js.map": "/dex-dashboard-template/static/js/main.3ccac876.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8fde40.css",
-    "static/js/main.ec528d19.js"
+    "static/js/main.3ccac876.js"
   ]
 }

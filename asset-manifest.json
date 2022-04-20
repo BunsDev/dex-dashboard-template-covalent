@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/xyk-dashboard-template/static/css/main.8fe10855.css",
+    "main.js": "/xyk-dashboard-template/static/js/main.e3b3244f.js",
+    "static/media/banner.png": "/xyk-dashboard-template/static/media/banner.e7e485889e91cd190c61.png",
+    "static/media/Covalent-Background_5.jpg": "/xyk-dashboard-template/static/media/Covalent-Background_5.cc7bc02bfb761a1dd343.jpg",
+    "static/media/covalent-logo-loop_dark_v2.gif": "/xyk-dashboard-template/static/media/covalent-logo-loop_dark_v2.d4efb9c1560382135c74.gif",
+    "static/media/logo.svg": "/xyk-dashboard-template/static/media/logo.00ecc9d53a63d053997c5a736dfe0291.svg",
+    "index.html": "/xyk-dashboard-template/index.html",
+    "static/media/alert.svg": "/xyk-dashboard-template/static/media/alert.6e5425f970eb5a1bc7107d2f8df36bf2.svg",
+    "main.8fe10855.css.map": "/xyk-dashboard-template/static/css/main.8fe10855.css.map",
+    "main.e3b3244f.js.map": "/xyk-dashboard-template/static/js/main.e3b3244f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe10855.css",
+    "static/js/main.e3b3244f.js"
+  ]
+}
